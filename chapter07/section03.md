@@ -157,6 +157,5 @@ class UserHandler(tornado.web.RequestHandler):
 </body>
 </html>
 ```
-
 <img alt="分享给朋友" src="/images/share1.png" width="375" height="667">
 <img alt="分享到朋友圈" src="/images/share2.png" width="375" height="667">
